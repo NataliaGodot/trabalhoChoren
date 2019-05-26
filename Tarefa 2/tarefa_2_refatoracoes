@@ -1,0 +1,32 @@
+No refactorings found in commit 6f19257ce4647726318be96e56c89b059078783a
+No refactorings found in commit 59d6d687858b752490224d8f10030abfdb520052
+No refactorings found in commit 27983346bc051c9771fec0319ec267f0a9c7939a
+No refactorings found in commit ee2464186a32d8b10099824a4f23b66b9a278db9
+18 refactorings found in commit ab0ad88440fb45c823bc1c4359248b66d77ebcec
+No refactorings found in commit cea385565f3061b6b5b164a76557272caab39e0c
+No refactorings found in commit 72dd57e65c45ef7cbdad3ed301bf30c8f6a23479
+No refactorings found in commit 688185fdc027c62f6ec321175ba45dbcd7e77396
+No refactorings found in commit 45254ce99a35cafeb8e118041d2d991233bffa45
+No refactorings found in commit db52a526170e40089238aa3f6312df7ff48bf5b3
+1 refactorings found in commit 3bdc07d5e07dae6bc903ffe1d85ef9d028680435
+2 refactorings found in commit b01306f16a1876ea76abd8fd36c23fc2f9f2b30f
+No refactorings found in commit 047cbc3bb3fb94399813b5d2f8ee96afd19eb63d
+No refactorings found in commit 2f4a0b301c1ef1629a7189ab8c791ceeb60f7d65
+No refactorings found in commit 20f3e55dec97b25938a5b2d1e9599962810e84c7
+No refactorings found in commit 2e005d39f6052e4d25cdc34655c6d157cd860033
+1 refactorings found in commit 2e8bf9ea185ecd1a034af11f9e669a8e7e74ef86
+No refactorings found in commit 4aa07180ff6918cf9a5f8b127193d7b99785375f
+No refactorings found in commit 27dd35c99782b1634562dc5f21e88d7b6d012495
+No refactorings found in commit c7503775719f5a76cf98e1017ade8a3eeba9786c
+No refactorings found in commit 759348f7c41cd331702de06f4042acf99f43cef5
+No refactorings found in commit 4d4a094f61f5a540009c2970a2ec8c0a9d44551d
+No refactorings found in commit ad5dbf7895d2608ecc8c4dba818cfea91099152b
+No refactorings found in commit ad0c4cab2b3af94ed26d3e5458b1c76a5bea51f9
+No refactorings found in commit 7a24e9aa8a1126742c4824d83d8856dec5ad7d8c
+No refactorings found in commit 8b6fa7dd854f361c34d6a1a66d91274f307ae1c2
+No refactorings found in commit ebc397906df388180483012e606b95da72af1431
+20 refactorings found in commit a33b6cb63ac29802d452a66d6bc721648f237e26
+No refactorings found in commit e9a8f19e5e5e3d0f343efe52a2d24ac58611d03c
+No refactorings found in commit 29fbfcde9211afaec28f2b14ac0abf48139eb528
+Finish mining, result is saved to file: /home/natalia/Downloads/IME/trabalhoChoren/dubbo-spring-boot-starter/all_refactorings.csv
+Total count: [Commits: 30, Errors: 0, Refactorings: 42]

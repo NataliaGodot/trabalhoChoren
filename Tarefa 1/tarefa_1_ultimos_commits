@@ -1,0 +1,224 @@
+1: commit 8751f5676f195f740b9b0a50e4634bafec3970e1
+Merge: 2798334 6f19257
+Author: xionghui <xionghui_coder@163.com>
+Date:   Mon Mar 19 15:44:38 2018 +0800
+
+    Merge pull request #82 from Ivan97/develop
+    
+    [DOCS]:[maven badge]
+
+2: commit 6f19257ce4647726318be96e56c89b059078783a
+Author: YangkiZhang <yangkizhang@gmail.com>
+Date:   Sat Mar 17 22:56:48 2018 +0800
+
+    [REFACTOR]:[修复配置信息无法提示的问题]
+    
+    Github issue #81
+    https://github.com/alibaba/dubbo-spring-boot-starter/issues/81
+    
+    Signed-off-by: YangkiZhang <yangkizhang@gmail.com>
+
+3: commit 59d6d687858b752490224d8f10030abfdb520052
+Author: YangkiZhang <yangkizhang@gmail.com>
+Date:   Sat Mar 17 22:31:08 2018 +0800
+
+    [DOCS]:[maven badge]
+    
+    Signed-off-by: YangkiZhang <yangkizhang@gmail.com>
+
+4: commit 27983346bc051c9771fec0319ec267f0a9c7939a
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 12 11:18:49 2018 +0800
+
+    begin 2.0.1-SNAPSHOT
+
+5: commit f5b221465bcec202af43bfeea6484c9c9a8b8688
+Merge: ab0ad88 ee24641
+Author: xionghui <xionghui_coder@163.com>
+Date:   Mon Mar 12 11:13:07 2018 +0800
+
+    Merge pull request #75 from Ivan97/develop
+    
+    [REFACTOR]:[工程结构优化]
+
+6: commit ee2464186a32d8b10099824a4f23b66b9a278db9
+Author: YangkiZhang <yangkizhang@gmail.com>
+Date:   Sun Mar 11 20:37:38 2018 +0800
+
+    [REFACTOR]:[工程结构优化]
+    
+    变更说明：
+    1.pom.xml文件中依赖包及插件版本等属性统一在properties中管理
+    2.添加developer信息
+    3.添加2.0.0版本中删掉的spring-boot-configuration-processor，不知是否是误删，还是有其他考量
+
+7: commit ab0ad88440fb45c823bc1c4359248b66d77ebcec
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Sun Mar 11 14:08:17 2018 +0800
+
+    start 2.0.0：支持更多配置
+
+8: commit cea385565f3061b6b5b164a76557272caab39e0c
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Fri Mar 9 20:19:54 2018 +0800
+
+    fix #72 Support gloabl config for provider and consumer
+
+9: commit 72dd57e65c45ef7cbdad3ed301bf30c8f6a23479
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Thu Mar 8 13:24:51 2018 +0800
+
+    begin 1.0.3-SNAPSHOT
+
+10: commit 688185fdc027c62f6ec321175ba45dbcd7e77396
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Thu Mar 8 13:12:44 2018 +0800
+
+    update README.md
+
+11: commit 45254ce99a35cafeb8e118041d2d991233bffa45
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Wed Mar 7 16:51:15 2018 +0800
+
+    release version 1.0.2
+
+12: commit db52a526170e40089238aa3f6312df7ff48bf5b3
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Wed Mar 7 15:47:29 2018 +0800
+
+    add dubbo official dubbo-spring-boot-project's address in README.md
+
+13: commit 3bdc07d5e07dae6bc903ffe1d85ef9d028680435
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Wed Mar 7 15:25:25 2018 +0800
+
+    fix #69 default spring.dubbo.appname=${spring.application.name}
+
+14:commit b01306f16a1876ea76abd8fd36c23fc2f9f2b30f
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Wed Mar 7 12:12:44 2018 +0800
+
+    fix #43 format source code with googlestyle-java.xml
+
+15: commit 047cbc3bb3fb94399813b5d2f8ee96afd19eb63d
+Author: 韩旺坤 <hanwangkun2006@139.com>
+Date:   Wed Mar 7 11:54:14 2018 +0800
+
+    修改说明文档
+
+16: commit 2f4a0b301c1ef1629a7189ab8c791ceeb60f7d65
+Author: 韩旺坤 <hanwangkun2006@139.com>
+Date:   Wed Mar 7 11:27:40 2018 +0800
+
+    添加多协议自动配置
+
+17: commit 20f3e55dec97b25938a5b2d1e9599962810e84c7
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 17:30:52 2018 +0800
+
+    add awaitThread to interrupt dubboServer
+
+18: commit 2e005d39f6052e4d25cdc34655c6d157cd860033
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 17:20:48 2018 +0800
+
+    spring destroy时退出线程
+
+19: commit 2e8bf9ea185ecd1a034af11f9e669a8e7e74ef86
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 16:26:30 2018 +0800
+
+    update package name
+
+20: commit 4aa07180ff6918cf9a5f8b127193d7b99785375f
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 16:14:44 2018 +0800
+
+    fix #66 add 'spring.dubbo.server=true' to support application running without web container
+
+21: commit 27dd35c99782b1634562dc5f21e88d7b6d012495
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 11:24:16 2018 +0800
+
+    优化代码结构
+
+22: commit c7503775719f5a76cf98e1017ade8a3eeba9786c
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 11:23:10 2018 +0800
+
+    begin 1.0.2-SNAPSHOT
+
+23: commit 759348f7c41cd331702de06f4042acf99f43cef5
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Mar 5 10:45:35 2018 +0800
+
+    fix #61 provider的@Service需要注解为bean才能发布成功
+
+24: commit 4d4a094f61f5a540009c2970a2ec8c0a9d44551d
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Thu Feb 15 18:57:03 2018 +0800
+
+    发布1.0.1版本
+
+25: commit ad5dbf7895d2608ecc8c4dba818cfea91099152b
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Thu Feb 15 18:32:38 2018 +0800
+
+    fix #24 配置spring.dubbo.monitor=zookeeper://127.0.0.1:2181支持monitor
+
+26: commit ad0c4cab2b3af94ed26d3e5458b1c76a5bea51f9
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Thu Feb 15 13:08:04 2018 +0800
+
+    fix #60 mvn clean error
+
+27: commit 7a24e9aa8a1126742c4824d83d8856dec5ad7d8c
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Thu Feb 1 17:31:44 2018 +0800
+
+    fixed #56 support spring boot 2.0.0.M7
+
+28: commit 8b6fa7dd854f361c34d6a1a66d91274f307ae1c2
+Author: yanchang <yanchang.gyc@gmail.com>
+Date:   Wed Jan 31 15:45:03 2018 +0800
+
+    change lower-case word
+
+29: commit 3c361592bffb790527188365cb5718d8f11bc408
+Merge: a33b6cb ebc3979
+Author: xionghui <xionghui_coder@163.com>
+Date:   Wed Jan 31 11:10:43 2018 +0800
+
+    Merge pull request #58 from Ivan97/master
+    
+    [REFACTOR]:[添加spring-boot-configuration-processor依赖]
+
+30: commit ebc397906df388180483012e606b95da72af1431
+Author: YangkiZhang <yangkizhang@gmail.com>
+Date:   Tue Jan 30 17:31:26 2018 +0800
+
+    [REFACTOR]:[添加spring-boot-configuration-processor依赖]
+
+31: commit a33b6cb63ac29802d452a66d6bc721648f237e26
+Author: xionghui <xionghui.xh@alibaba-inc.com>
+Date:   Mon Jan 22 14:35:10 2018 +0800
+
+    调整代码，支持dubbo-2.6.0，调整artifactId
+
+32: commit e9a8f19e5e5e3d0f343efe52a2d24ac58611d03c
+Author: xionghui <xionghui_coder@163.com>
+Date:   Thu Jan 4 15:11:08 2018 +0800
+
+    Update README_zh.md
+
+33: commit 29fbfcde9211afaec28f2b14ac0abf48139eb528
+Author: 寒鸣 <xionghui.xh@alibaba-inc.com>
+Date:   Fri Jan 20 16:48:15 2017 +0800
+
+    Init project
+
+34: commit e58e35934d2d746f52657d3b54ef2107ea3d5d79
+Author: Alibaba OSS <opensource@alibaba-inc.com>
+Date:   Fri Jan 20 16:02:19 2017 +0800
+
+    Initial commit
